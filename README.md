@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-Grafik Arayüz Tasarımı ddersi final projesi. 
+Grafik Arayüz Tasarımı dersi final projesi. 
